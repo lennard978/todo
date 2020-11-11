@@ -1,0 +1,10 @@
+input {
+	position: relative;
+	border: 6px solid #ffc107 !important;
+}
+.submit {
+	position: absolute;
+	top: 6px;
+	right: 21px;
+	border-radius: 0;
+}
